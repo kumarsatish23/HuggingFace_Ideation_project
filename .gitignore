@@ -1,0 +1,83 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+.wheelhouse/
+
+# PyCharm specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Virtual environments
+venv/
+env/
+env.bak/
+venv.bak/
+.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# pytest
+.cache
+pytestdebug.log
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# pyproject.toml
+*.toml
+
+# Docker files
+docker-compose*.yml
+Dockerfile*
+
+# Log files
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Local history for PyCharm
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/vcs.xml
+.idea/assetWizard/
+
+# Other IDEs and editors
+.vscode/
+*.swp
+*.swo
+*~
